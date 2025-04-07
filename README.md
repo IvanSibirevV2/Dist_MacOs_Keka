@@ -1,5 +1,21 @@
 # Dist_MacOs_Keka
 
+![image](https://github.com/user-attachments/assets/552271e8-7232-4563-949b-cae0616ef0b2)
+
+![image](https://github.com/user-attachments/assets/f6d75437-316b-4f63-a227-8aa3ff6e93ec)
+
+![image](https://github.com/user-attachments/assets/770b178c-6752-4b8d-85b4-2010227b2fc2)
+
+![Uploading image.png…]()
+
+
+
+
+
+
+
+
+
 ######       
     sudo spctl --master-disable
 
