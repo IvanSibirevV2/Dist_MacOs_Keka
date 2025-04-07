@@ -1,6 +1,6 @@
 # Dist_MacOs_Keka
 
-![image](https://github.com/user-attachments/assets/552271e8-7232-4563-949b-cae0616ef0b2)
+![430848828-552271e8-7232-4563-949](https://github.com/user-attachments/assets/c71853b7-5c3e-4a70-9ce3-6aa1077d9f26)
 
 ![image](https://github.com/user-attachments/assets/f6d75437-316b-4f63-a227-8aa3ff6e93ec)
 
