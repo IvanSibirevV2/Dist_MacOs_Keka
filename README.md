@@ -6,15 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/770b178c-6752-4b8d-85b4-2010227b2fc2)
 
-![Uploading image.png…]()
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/751120fa-bcdb-493f-827e-bc2fd9f82a60)
 
 ######       
     sudo spctl --master-disable
