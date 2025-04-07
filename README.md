@@ -10,7 +10,8 @@ https://htmlpreview.github.io/?https://github.com/IvanSibirevV2/Dist_MacOs_Keka/
 
 ![image](https://github.com/user-attachments/assets/6a97b1fc-cb13-47fa-ad5b-ea208e7c36d7)
 
-
+######
+  sudo spctl --master-disable
 
 
 
